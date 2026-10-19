@@ -1,0 +1,3 @@
+from telebot import send_telegram
+
+send_telegram("테스트 메시지입니다")
